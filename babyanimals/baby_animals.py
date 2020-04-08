@@ -4,7 +4,7 @@
 
    AUTHOR:      Professors
 
-   ASSIGNMENT:  Lists
+   ASSIGNMENT:  Baby Animals
 
    DESCRIPTION: Professors' solution program.
  *****************************************************************************
